@@ -2,4 +2,4 @@
 
 ## Comparing Basic and Flexible(Quadratic-two way interaction) Linear Regression Model
 
-### explaination is remaining
+### ...Explaination is remaining
